@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MainProject_V4.srcs/sources_1/imports/new/Bram.v" \
+"../../../../MainProject_V4.srcs/sources_1/imports/new/Sprites.v" \
+"../../../../MainProject_V4.srcs/sources_1/imports/new/Top.v" \
+"../../../../MainProject_V4.srcs/sources_1/imports/new/VGA_Controller.v" \
+"../../../../MainProject_V4.srcs/sources_1/new/Top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
