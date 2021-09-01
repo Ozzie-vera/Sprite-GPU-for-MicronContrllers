@@ -1,23 +1,24 @@
 #-----------------------------------------------------------
-# Vivado v2018.3 (64-bit)
-# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
-# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Tue Jan 28 16:19:05 2020
-# Process ID: 15108
-# Current directory: D:/3. College Classes/Fall 2019/Project Lab IV/VIvado Files/MainProject_V4
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent24872 D:\3. College Classes\Fall 2019\Project Lab IV\VIvado Files\MainProject_V4\MainProject_V4.xpr
-# Log file: D:/3. College Classes/Fall 2019/Project Lab IV/VIvado Files/MainProject_V4/vivado.log
-# Journal file: D:/3. College Classes/Fall 2019/Project Lab IV/VIvado Files/MainProject_V4\vivado.jou
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jan  7 16:13:01 2021
+# Process ID: 14244
+# Current directory: C:/Users/Osba/Documents/Verilog Projects/Sprite-GPU-for-MicronContrllers
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4008 C:\Users\Osba\Documents\Verilog Projects\Sprite-GPU-for-MicronContrllers\MainProject_V4.xpr
+# Log file: C:/Users/Osba/Documents/Verilog Projects/Sprite-GPU-for-MicronContrllers/vivado.log
+# Journal file: C:/Users/Osba/Documents/Verilog Projects/Sprite-GPU-for-MicronContrllers\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project {D:/3. College Classes/Fall 2019/Project Lab IV/VIvado Files/MainProject_V4/MainProject_V4.xpr}
+open_project {C:/Users/Osba/Documents/Verilog Projects/Sprite-GPU-for-MicronContrllers/MainProject_V4.xpr}
 INFO: [Project 1-313] Project file moved from 'D:/1. Fall 2019/Project Lab IV/VIvado Files/MainProject_V4' since last save.
 Scanning sources...
 Finished scanning sources
+INFO: [Project 1-230] Project 'MainProject_V4.xpr' upgraded for this version of Vivado.
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
-INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
-open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:07 . Memory (MB): peak = 687.570 ; gain = 107.746
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:05 . Memory (MB): peak = 1017.668 ; gain = 0.000
 update_compile_order -fileset sources_1
 exit
-INFO: [Common 17-206] Exiting Vivado at Tue Jan 28 23:50:34 2020...
+INFO: [Common 17-206] Exiting Vivado at Thu Jan  7 17:07:36 2021...
